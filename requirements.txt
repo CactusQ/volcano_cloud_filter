@@ -1,0 +1,7 @@
+bs4
+pandas
+matplotlib
+argparse
+Pillow
+numpy
+shutil
